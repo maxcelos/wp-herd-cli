@@ -1,0 +1,20 @@
+{
+  "name": "wp-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.3",
+    "picocolors": "^1.0.0"
+  }
+}
